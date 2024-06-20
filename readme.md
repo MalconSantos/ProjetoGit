@@ -13,3 +13,5 @@ Obrigado por conferir este desafio de codificação front-end.
 ## O desafio
 
 Seu desafio é construir este cartão de visualização do blog e obtê-lo olhando apenas para a imgagem exemplo.
+
+isso é uma alteração
